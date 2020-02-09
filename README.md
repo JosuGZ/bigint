@@ -1,4 +1,12 @@
 
+# C++ Big Integer Library from Matt McCutchen
+
+- Source: https://mattmccutchen.net/bigint/
+- Git source: https://mattmccutchen.net/bigint/bigint.git/
+
+Original Readme:
+
+```
                             C++ Big Integer Library
                           (see ChangeLog for version)
 
@@ -69,3 +77,4 @@ copyright to it, placing it in the public domain.  The library comes with
 absolutely no warranty.
 
 ~~~~
+```
